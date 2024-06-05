@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(0);
-  rotateY(mouseX, mouseY, 30)
+  rotateY(mouseX, mouseY, 5)
 
   let discoBallRadius = 200;
   let numMirrors = 20;
